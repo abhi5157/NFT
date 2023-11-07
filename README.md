@@ -1,7 +1,7 @@
 ## NFT 
 NFT stands for non-fungible tokens , I try to create a project in which we will trade on nft tokens
 
-## For intalling all module
+# For intalling all module
 npm install
 
 ## for deploying smart contract
